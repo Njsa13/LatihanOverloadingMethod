@@ -1,0 +1,6 @@
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\bin\Debug\tugasmemberclass.exe.config
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\bin\Debug\tugasmemberclass.exe
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\bin\Debug\tugasmemberclass.pdb
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\obj\Debug\LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\obj\Debug\tugasmemberclass.exe
+D:\Kuliah\S2\Pemrograman\tugasmemberclass\tugasmemberclass\obj\Debug\tugasmemberclass.pdb
